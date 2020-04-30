@@ -1,6 +1,6 @@
 # useReducerWithLocalStorage
 
-React hook that addins local storage support to the `useReducer` hook
+React hook that adds local storage support to the `useReducer` hook
 
 ## Install
 
