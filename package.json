@@ -38,5 +38,5 @@
     "email": "mattia.richetto@gmail.com",
     "name": "Mattia Richetto"
   },
-  "description": "React hook that addins local storage support to the `useReducer` hook"
+  "description": "React hook that adds local storage support to the `useReducer` hook"
 }
