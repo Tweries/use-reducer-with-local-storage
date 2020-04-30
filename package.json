@@ -1,0 +1,37 @@
+{
+  "name": "use-reducer-with-local-storage",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^3.0.0",
+    "jest": "^25.5.2",
+    "prettier": "^2.0.5"
+  },
+  "scripts": {
+    "lint": "eslint src",
+    "prettier": "prettier 'src/**/*.js'",
+    "prettier:fix": "npm run prettier -- --write",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@testing-library/react-hooks": "^3.2.1",
+    "react-test-renderer": "^16.13.1"
+  },
+  "peerDependencies": {
+    "react-dom": "^16.13.1"
+  },
+  "author": {
+    "email": "mattia.richetto@gmail.com",
+    "name": "Mattia Richetto"
+  }
+}
