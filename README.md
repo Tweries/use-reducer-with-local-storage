@@ -23,3 +23,7 @@ const [state, dispatch] = useReducerWithLocalStorage({
 - [https://gist.github.com/mattiaerre/8dbd2d8efca3f242c7085a9ce82ecbde](https://gist.github.com/mattiaerre/8dbd2d8efca3f242c7085a9ce82ecbde)
 
 - [https://github.com/Tweries/silver-tip/blob/master/src/App.js#L2](https://github.com/Tweries/silver-tip/blob/master/src/App.js#L2)
+
+## Notes
+
+- Special thanks to [https://github.com/mdboop](Matthew Brooks) that was kind enough to review the original Gist and to propose new features.
