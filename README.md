@@ -26,4 +26,4 @@ const [state, dispatch] = useReducerWithLocalStorage({
 
 ## Notes
 
-- Special thanks to [https://github.com/mdboop](Matthew Brooks) that was kind enough to review the original Gist and to propose new features.
+- Special thanks to [Matthew Brooks](https://github.com/mdboop) that was kind enough to review the original Gist and to propose new features.
