@@ -3,5 +3,6 @@ lib
 node_modules
 .DS_Store
 .env
+DX.md
 yarn-error.log
 yarn.lock
